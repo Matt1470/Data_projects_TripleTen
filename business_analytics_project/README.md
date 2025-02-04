@@ -101,9 +101,6 @@ Users were **grouped into cohorts** based on their **first purchase month**, and
 
 ## 🛠 Tools & Technologies  
 - **Google Sheets / Excel** – Data processing, pivot tables, and analysis.  
-- **SQL (Optional)** – Data filtering and extraction.  
-- **Tableau (Optional)** – Visualizing funnel and cohort analysis.  
-
 ---
 
 ## 📥 How to Use This Project  
@@ -118,20 +115,10 @@ Users were **grouped into cohorts** based on their **first purchase month**, and
 3️⃣ **Apply insights**  
    - Use recommendations to **improve conversions & retention**.  
    - Experiment with **A/B testing and marketing optimizations**.  
-
----
-
-## 🔮 Next Steps & Future Work  
-🚀 **Potential Enhancements:**  
-- **Predictive modeling** for customer lifetime value (CLV).  
-- **Deeper segmentation** of user behavior (e.g., product preferences).  
-- **A/B testing** for different retention strategies.  
-
 ---
 
 ## 📄 Author  
-👤 **[Your Name]**  
-📧 Email: [YourEmail@example.com]  
-🔗 LinkedIn: [Your LinkedIn Profile]  
-📂 Portfolio: [Your Portfolio Link]  
+👤 **Matthew Cook**  
+📧 Email: matthewcook755@gmail.com  
+🔗 LinkedIn: [Here](https://www.linkedin.com/in/matthew-cook-4a92627a/)  
 
