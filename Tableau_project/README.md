@@ -73,10 +73,9 @@ The primary objective was to identify **factors driving high return rates and pr
 
 ---
 
-## 📥 How to Use the Dashboard  
-1. Open the **Tableau workbook (.twbx)** file.  
-2. Explore the **interactive visualizations** using available filters (Region, Product Category, Profitability, etc.).  
-3. Use insights from the dashboard to **optimize inventory, marketing, and operational strategies**.  
+## 📊 Tableau Dashboard  
+🔗 **View the Tableau Dashboard:**  
+[Superstore Analysis](https://public.tableau.com/app/profile/matthew.cook5582/viz/SuperstoreAnalysis_17325675460240/SubcatRegion)  
 
 ---
 
