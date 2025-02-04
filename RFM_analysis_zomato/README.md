@@ -140,7 +140,7 @@ Multiple visualizations were created to **analyze RFM segmentation**:
 
 ## 📊 Tableau Dashboard  
 🔗 **View the Tableau Dashboard:**  
-[Zomato RFM Dashboard](https://public.tableau.com/app/profile/matthew.cook5582/viz/RFMZomato/Dashboard1?publish=yes)  
+[Superstore Analysis](https://public.tableau.com/app/profile/matthew.cook5582/viz/SuperstoreAnalysis_17325675460240/SubcatRegion)  
 
 ---
 
