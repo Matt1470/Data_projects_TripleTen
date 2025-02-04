@@ -90,6 +90,6 @@ The primary objective was to identify **factors driving high return rates and pr
 
 ## 📄 Author  
 👤 **Matthew Cook**  
-📧 Email: [matthewcook755@gmail.com]  
+📧 Email: matthewcook755@gmail.com  
 🔗 LinkedIn: [Your LinkedIn Profile]  
 📂 Portfolio: [Your Portfolio Link]  
