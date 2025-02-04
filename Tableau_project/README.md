@@ -70,8 +70,6 @@ The primary objective was to identify **factors driving high return rates and pr
 ## 🛠 Tools & Technologies  
 - **Tableau** – Data visualization and dashboard creation.  
 - **Excel/CSV** – Data source format.  
-- **SQL (Optional)** – Preprocessing and data cleaning.  
-- **Python/Pandas (Optional)** – Additional analysis and transformation.  
 
 ---
 
@@ -91,7 +89,7 @@ The primary objective was to identify **factors driving high return rates and pr
 ---
 
 ## 📄 Author  
-👤 **[Your Name]**  
-📧 Email: [YourEmail@example.com]  
+👤 **Matthew Cook**  
+📧 Email: [matthewcook755@gmail.com]  
 🔗 LinkedIn: [Your LinkedIn Profile]  
 📂 Portfolio: [Your Portfolio Link]  
