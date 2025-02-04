@@ -103,18 +103,8 @@ Users were **grouped into cohorts** based on their **first purchase month**, and
 - **Google Sheets / Excel** – Data processing, pivot tables, and analysis.  
 ---
 
-## 📥 How to Use This Project  
-1️⃣ **Access the dataset and analysis**  
-   - Open the **Sprint 3 Project.xlsx** file.  
-   - Navigate to the **conversion_funnel** and **cohort_analysis** sheets.  
-
-2️⃣ **Understand the metrics**  
-   - **Funnel metrics** → Show conversion rates at each stage.  
-   - **Cohort analysis** → Tracks customer retention over time.  
-
-3️⃣ **Apply insights**  
-   - Use recommendations to **improve conversions & retention**.  
-   - Experiment with **A/B testing and marketing optimizations**.  
+## 📥 Link to Project
+Link to the Project is [here](https://docs.google.com/spreadsheets/d/19ckjKy-vefcMBd1G951BvpglosylFnL_gKzBsbsyrr8/edit?usp=sharing)  
 ---
 
 ## 📄 Author  
